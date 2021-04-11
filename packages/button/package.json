@@ -1,5 +1,5 @@
 {
-  "name": "violet-button-2",
+  "name": "violet-button-1",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "b28a91ce9cc26a2ea4147d7deca45c76f702b596"
+  "gitHead": "112944cd0ede65c91b9a4aede3203270a837bae4"
 }
