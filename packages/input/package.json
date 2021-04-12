@@ -1,5 +1,5 @@
 {
-  "name": "violet-input-component",
+  "name": "violet-input-comp",
   "version": "0.0.8",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "3b263f374b54b068d52e56be54229f987baef513"
+  "gitHead": "7e3db99c4683b9a1c444c32ce0d8eab7c5694a2e"
 }
