@@ -1,5 +1,5 @@
 {
-  "name": "violet-steps-comp",
+  "name": "violet-steps-compo",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "112944cd0ede65c91b9a4aede3203270a837bae4"
+  "gitHead": "0e114848426643246e3ef1403ed18152e1a9b1ae"
 }
