@@ -1,5 +1,5 @@
 {
-  "name": "violet-formitem-comp",
+  "name": "violet-formitem-compoo",
   "version": "0.0.9",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "async-validator": "^3.5.1"
   },
-  "gitHead": "7e3db99c4683b9a1c444c32ce0d8eab7c5694a2e"
+  "gitHead": "b55ecba9ba8226b8988733f55916379858c0493d"
 }
